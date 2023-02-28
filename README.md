@@ -42,3 +42,20 @@ Desarrollo de reto 4
 °Pseudocodigo:
 
 
+
+
+
+
+
+
+
+
+[![Pseudocodigo.png](https://i.postimg.cc/BbrpsQFP/Pseudocodigo.png)](https://postimg.cc/Cn4ks0mw)
+
+
+
+
+
+
+2.Revise el procedimiento matemático para hallar raices cuadradas (son divisiones y restas), plantee el algoritmo en pseudocódigo y en diagrama de flujo.
+
